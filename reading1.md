@@ -1,6 +1,6 @@
 # Case Study:China Spy Chip
 
-Questions
+Questions?
 
 How is a hardware hack different than a software hack?
 
