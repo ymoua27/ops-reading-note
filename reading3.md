@@ -7,6 +7,8 @@ BIOS stands for Basic Input Output System. It loads the operating system when tu
 
 **Use analogies from your previous background to explain what happens during the booting process?**
 
+We had a diesel engine that we had to to ensure the lineup was correct before starting up the engine. It's like we are "booting" up the engine. We check all parameters to ensure that we when start the engine, it would start. These line ups were done in a certain order as well just how BIOS can be priototize to have a bootup sequence. 
+
 **What is the “Power On Self Test”?**
 When turning on a computer, BIOS will do a self-check to see if main hardware like the CPU, RAM, storage drives, and graphics card are functioning. 
 
