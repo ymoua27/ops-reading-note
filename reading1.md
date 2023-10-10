@@ -75,9 +75,11 @@ MD cheat sheets are valuable and needs to be utilize more
 -Outputs are dependent on what a computer is design to do. It could be how something is display or playing video games
 
 
+#### Things I Want To Know About
 
+How do we always make compuiter smaller and better?
 
-#### Bookmarks
+##### Bookmarks
 1.[MD CHEATS](https://www.markdownguide.org/cheat-sheet/)
 
 2.[Wikis Guide](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
