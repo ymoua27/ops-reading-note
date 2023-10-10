@@ -53,3 +53,16 @@ Source of the chips can be traced through supply logistics.
 Investigators found People’s Liberation Army to be responsbile using various schemes to manilpulate plant managers.
 
 Investigaors were able to hack anyomous comptuers to see which companies has been affected. About 30 companies were affected.
+
+### Notes on Additional resources
+
+You can preview instead of commiting changes.
+
+MD cheatsheets are valuable and needs to be utilize more. 
+
+
+#### Bookmarks
+1.[MD CHEATS](https://www.markdownguide.org/cheat-sheet/)
+
+2.[Wikis Guide](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+
