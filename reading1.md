@@ -1,26 +1,26 @@
 # Case Study:China Spy Chip
 
-Questions?
+**Questions?**
 
-How is a hardware hack different than a software hack?
+**How is a hardware hack different than a software hack?**
 
 
 Hardware hack involves tampering with the physical components of the computer, easily going unnoticed until a laters notice. Software hack involves a program or tool to gain access to a computer. 
 
 
-What are the two ways for spies to alter a computer’s hardware?
+**What are the two ways for spies to alter a computer’s hardware?**
 
 
 Interdiction consists of manipulating devices as they’re in transit from manufacturer to customer. The second way is seeding changes in the beginning. 
 
 
-Explain how the hack worked.
+**Explain how the hack worked.**
 
 
 Motherboards were planted a tiny coded chip that would communicate with anonymous computers and to prepare the device's operating system to accept the new code. It allowed access to anything the attackers wanted without being noticed. 
 
 
-How were investigators able to trace the chips back to the source?
+**How were investigators able to trace the chips back to the source?**
 
 
 Since it was a hardware hack, it left a paper trail. They were able to trace it using invoices and investigates the plants manufacturing the chips.
@@ -59,6 +59,22 @@ Investigaors were able to hack anyomous comptuers to see which companies has bee
 You can preview instead of commiting changes.
 
 MD cheatsheets are valuable and needs to be utilize more. 
+
+-A computer is a thinking machine that involves: Input, Storage, Process, Output
+
+-Early computers were huge and started out as calculators. 
+
+-As technology advances, computers have become smaller and do a lot more than just calculating numbers.
+
+-Input is what you tell computer to do. It could be using a mouse, talking into a mic, touching a screen, etc. 
+
+-Inputs are stored in memory.
+
+-CPU uses stored memory to process information into output.
+
+-Outputs are dependent on what a computer is design to do. It could be how something is display or playing video games.
+
+
 
 
 #### Bookmarks
