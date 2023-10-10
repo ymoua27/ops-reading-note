@@ -9,3 +9,9 @@ What are the two ways for spies to alter a computer’s hardware?
 Explain how the hack worked.
 
 How were investigators able to trace the chips back to the source?
+
+
+# Notes
+
+Amazon evaluates Elemental Technologies to expand live streaming
+
