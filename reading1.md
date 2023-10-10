@@ -5,7 +5,7 @@
 **How is a hardware hack different than a software hack?**
 
 
-Hardware hack involves tampering with the physical components of the computer, easily going unnoticed until a laters notice. Software hack involves a program or tool to gain access to a computer. 
+Hardware hack involves tampering with the physical components of the computer, easily going unnoticed. Software hack involves a program or tool to gain access to a computer. 
 
 
 **What are the two ways for spies to alter a computer’s hardware?**
@@ -30,49 +30,49 @@ Since it was a hardware hack, it left a paper trail. They were able to trace it 
 
 Amazon evaluates Elemental Technologies to expand live streaming
 
-Amazon Web Services (AWS) hires third party to investigate Elemental security. 
+Amazon Web Services (AWS) hires third party to investigate Elemental security
 
-They found that Super Micro Computer Inc are responsible for installing the servers.
+They found that Super Micro Computer Inc are responsible for installing the servers
 
-Testers found tiny microchip on motherboard that wasn't not part of the orginal design
+Testers found tiny microchip on motherboard that wasn't not part of the original design
 
 This is a huge problem as Elemental has servers in the DOD, CIA drone operations, and Navy warships
 
-The chips allowed for the attackers to go into any network without being notice.
+The chips allowed for the attackers to go into any network without being notice
 
-Chips inserted during manufacturing process.
+Chips inserted during manufacturing process
 
-Elemental was a prime target due to having DOD, NASA, Congress, and DOHS as customers.
+Elemental was a prime target due to having DOD, NASA, Congress, and DOHS as customers
 
-Implanted chips did two things: telling the device to communicate with one of several anonymous computers elsewhere on the internet that were loaded with more complex code; and preparing the device’s operating system to accept this new code.
+Implanted chips did two things: telling the device to communicate with one of several anonymous computers elsewhere on the internet that were loaded with more complex code; and preparing the device’s operating system to accept this new code
 
-This allows attackers to have full access.
+This allows attackers to have full access
 
-Source of the chips can be traced through supply logistics.
+Source of the chips can be traced through supply logistics
 
-Investigators found People’s Liberation Army to be responsbile using various schemes to manilpulate plant managers.
+Investigators found People’s Liberation Army to be responsible using various schemes to manipulate plant managers
 
-Investigaors were able to hack anyomous comptuers to see which companies has been affected. About 30 companies were affected.
+Investigators were able to hack anyomous computers to see which companies has been affected. About 30 companies were affected
 
 ### Notes on Additional resources
 
-You can preview instead of commiting changes.
+You can preview instead of committing changes
 
-MD cheatsheets are valuable and needs to be utilize more. 
+MD cheat sheets are valuable and needs to be utilize more
 
 -A computer is a thinking machine that involves: Input, Storage, Process, Output
 
--Early computers were huge and started out as calculators. 
+-Early computers were huge and started out as calculators
 
--As technology advances, computers have become smaller and do a lot more than just calculating numbers.
+-As technology advances, computers have become smaller and do a lot more than just calculating numbers
 
 -Input is what you tell computer to do. It could be using a mouse, talking into a mic, touching a screen, etc. 
 
--Inputs are stored in memory.
+-Inputs are stored in memory
 
--CPU uses stored memory to process information into output.
+-CPU uses stored memory to process information into output
 
--Outputs are dependent on what a computer is design to do. It could be how something is display or playing video games.
+-Outputs are dependent on what a computer is design to do. It could be how something is display or playing video games
 
 
 
