@@ -1,5 +1,7 @@
 # **How to build a computer?**
 
+Learning how to build a computer is important, because it tells you what componets you need in order to have a working computer. NOt only that, but it allows you to upgrade parts in case you want something faster or need more storage. It also allows you to not waste money and buy expensive parts, if you don't need them for what you are doing. 
+
 **Questions?**
 
 **Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?**
