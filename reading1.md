@@ -1,6 +1,7 @@
 # Case Study:China Spy Chip
 
 Questions
+
 How is a hardware hack different than a software hack?
 
 What are the two ways for spies to alter a computer’s hardware?
