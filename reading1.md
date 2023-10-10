@@ -1,5 +1,7 @@
 # Case Study:China Spy Chip
 
+This module is important because it allows us to understand how one form of hacking can potentially cause harm. It teaches us the methods used and therefore we can look out for them in the future through other means. 
+
 **Questions?**
 
 **How is a hardware hack different than a software hack?**
