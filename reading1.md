@@ -3,14 +3,19 @@
 Questions?
 
 How is a hardware hack different than a software hack?
+
 Hardwware hack involves tampering with the physical components of the computer, easily going unnoticed until a laters notice. Software hack involves a program or tool to gain access to a computer. 
 
 What are the two ways for spies to alter a computer’s hardware?
+
 Interdiction consists of manipulating devices as they’re in transit from manufacturer to customer. The second way is seeding changes in the beginning. 
+
 Explain how the hack worked.
+
 Motherboards were planted a tiny coded chip that would communicate with anonymous computers and to prepare the device's operating system to accept the new code. It allowed access to anything the attackers wanted without being noticed. 
 
 How were investigators able to trace the chips back to the source?
+
 Since it was a hardware hack, it left a paper trail. They were able to trace it using invoices and investigates the plants manufacturing the chips.
 
 ## Notes
