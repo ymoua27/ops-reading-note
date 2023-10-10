@@ -4,7 +4,8 @@ Questions?
 
 How is a hardware hack different than a software hack?
 
-Hardwware hack involves tampering with the physical components of the computer, easily going unnoticed until a laters notice. Software hack involves a program or tool to gain access to a computer. 
+
+Hardware hack involves tampering with the physical components of the computer, easily going unnoticed until a laters notice. Software hack involves a program or tool to gain access to a computer. 
 
 What are the two ways for spies to alter a computer’s hardware?
 
