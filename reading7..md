@@ -40,7 +40,7 @@ Client/server model
 
 ![image](https://github.com/ymoua27/ops-reading-notes/assets/147285396/597f7717-3458-4ff2-9f43-e3043f246733)
 
-SSH Keyys are access credentials
+SSH Keys are access credentials
 
 
  
@@ -58,7 +58,6 @@ Remote Desktop Protocol is why we can use Remote Destktop Connection so we can s
 **What is the RDP port number?**
 
 Port 3389
-
 
 
 #### BookMarks
