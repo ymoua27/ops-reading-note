@@ -36,5 +36,13 @@ Steps for restoring (Windows 8, 8.1,10,11):
 Using Command Prompt
 1. Open Command Prompt and type command: rstrui.exe
 2. System Restore wizard will open and follow set of instructions
-3. Always use file in System32 folder
+3. Always use file in System32 folder to avoid viruses
+
+## Things I Want to Knnow
+
+Can System Restore point be corrupted?
+How many restore points can you have?
+
+### Bookmarks
+[System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131#toc-more-about-system-restore--restore-points)
 
