@@ -32,7 +32,7 @@ A lock door is like a firewall. If I lock it, I'm not allowing any unauthorize a
 
 # Notes
 
-**Windows Defender Security** is lcoated on taskbar (white shield)
+**Windows Defender Security** is located on taskbar (white shield)
 
 Holds all security settings of Windows. Split into 5 sections
 
