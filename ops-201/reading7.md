@@ -8,7 +8,7 @@ Bash works with strings and PowerShell works with objects
 
 **In what scenarios or environments can you use PowerShell? Name some major platforms where PowerShell is supported.**
 
-Powershell can be used by Systems Administrator, Systems Engineer, and Network Adminstrator. Windows, Linux, and AWS are some platforms where PowerShell is supported. 
+PowerShell can be used by Systems Administrator, Systems Engineer, and Network Administrator. Windows, Linux, and AWS are some platforms where PowerShell is supported. 
 
 
 **List at least three reasons why learning PowerShell could be beneficial for your career and environment.**
@@ -52,17 +52,17 @@ Scripts share complex data, passing entire data objects between commands
 
 What are the cons of PowerShell?
 
-What specfic things can I do with PowerShell?
+What specific things can I do with PowerShell?
 
 
 # Bookmarks
 
-[Should You Learn Powershell](https://www.techthoughts.info/ps1-should-you-learn-powershell/)
+[Should You Learn PowerShell](https://www.techthoughts.info/ps1-should-you-learn-powershell/)
 
 [Who Needs Malware?](https://www.techthoughts.info/ps1-should-you-learn-powershell/)
 
-[What Is Powershell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3&viewFallbackFrom=powershell-7)
+[What Is PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3&viewFallbackFrom=powershell-7)
 
-[Powershell Getting Started](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3&viewFallbackFrom=powershell-7)
+[PowerShell Getting Started](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3&viewFallbackFrom=powershell-7)
 
-[Powershell Variables and Operators](https://ss64.com/ps/syntax-variables.html)
+[PowerShell Variables and Operators](https://ss64.com/ps/syntax-variables.html)
