@@ -1,4 +1,4 @@
-Knowing what the Windows Registry does is important because it stores settings and date. A person can change it to their preferance and understand if something isn't acting right if the settings are off. 
+Knowing what the Windows Registry does is important because it stores settings and date. A person can change it to their  preference and understand if something isn't acting right if the settings are off. 
 
 # Questions?
 
@@ -8,7 +8,7 @@ A collection of databases where program settings are stored
 
 **What are the two types of registry settings stored for each Windows user account?**
 
-System wide that apply to all users and user account with theiir own specific settings
+System wide that apply to all users and user account with their own specific settings
 
 **What are “registry hacks” and why might someone want to use them?**
 The changes you make in the registry so you can enable hidden features and set specific options
