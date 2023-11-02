@@ -32,5 +32,5 @@ Cloud backup and recovery backs up data to the cloud
 
 
 
-## Bookmars
+## Bookmarks
 [Data Backup and Recovery](https://www.ninjaone.com/blog/what-is-backup-and-disaster-recovery-and-why-do-you-need-it/)
