@@ -13,7 +13,7 @@ Policy- Explains the "why" and provides guidance
 
 SOP- Explains what needs to be done, when it needs to be done, and why is it being done
 
-Working  Instructiosn- Explains the "how". Step by step instructions for doing a task
+Working  Instructions- Explains the "how". Step by step instructions for doing a task
 
 
 **Why are SOPs considered a primary way to implement or enforce policies in an organization?**
