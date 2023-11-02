@@ -33,9 +33,9 @@ Usually the SOP should be for the organization we're apart of. I would explain t
 
 SOP-Standard Operating Procedure
 
-Primary way for an organization to enforce polcies because it achieves the goals of the organization
+Primary way for an organization to enforce policies because it achieves the goals of the organization
 
-Muist include Policy, SOP, and Work Instructions
+Must include Policy, SOP, and Work Instructions
 
 Ensure SOPS are:
 
