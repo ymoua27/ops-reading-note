@@ -8,15 +8,15 @@ If it can't save, read, or move files
 
 **How do SSD failures differ from HDD failures in terms of detectability?**
 
-SSD do not make noise even when not functioniong properly
+SSD do not make noise even when not functioning properly
 
 **What are bad blocks in an SSD, and how do they affect its performance?**
 
-The storage becomes defective either through memory corruption or phyusical damages
+The storage becomes defective either through memory corruption or physical damages
 
 **How can power cycling an SSD help resolve certain issues?**
 
-Powercycling can help reset the SSD
+Power cycling can help reset the SSD
 
 **How might this topic be relevant in the aftermath of a natural disaster? Describe how individuals or communities can use these techniques to recover data and resume their normal activities.**
 
@@ -35,7 +35,7 @@ Read-only mode= SSD is not functioning, but only  in read-only mode.
 Recovery
 
 1. Power cycle the SSD
-2. Idiling boot menu
+2. Idling boot menu
 3. Updating SSD firmware
 4. Updating drivers
 
