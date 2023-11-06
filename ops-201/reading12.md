@@ -24,10 +24,10 @@ There could be one person who dictates the use of pfSense or a group of people. 
 
 # Notes
 
-pfSense is a distrubution of FreeBSD that turns an old computer into a full-featuered router and firewall
+pfSense is a distribution of FreeBSD that turns an old computer into a full-featured router and firewall
 
 
-pfSense is adaptable and can has features that can be fouynd in expensive routers
+pfSense is adaptable and can has features that can be found in expensive routers
 
 Uses:
 * LAN/WAN router
@@ -49,7 +49,7 @@ An old computer needs at least two network cards installed to set up pfSense rou
 Offers free support through forums, mailing lists and IRC
 
 
-# Booksmarks
+# Bookmarks
 [pfSense](https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform)
 
 [Setting up pfSense](https://www.samkear.com/setting-up-a-pfsense-router)
