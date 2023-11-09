@@ -1,8 +1,7 @@
 # Questions?
 
 **What are three key factors that contribute to psychologically safe teams?**
-
-Shared belief by team members that they are safe for taking risk, no one will be embarass or punish for speaking, having mutual respect for each other
+Shared belief by team members that they are safe for taking risk, no one will be embarrass or punish for speaking, having mutual respect for each other
 
 **Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
 
