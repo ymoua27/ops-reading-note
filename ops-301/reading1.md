@@ -28,7 +28,7 @@ It is a tool for network troubleshooting that does Packet Capture, Filtering, an
 
 **6. What is a packet?**
 
-
+A packet is a unit of data in networking. It contains the actual data bein transmitted and control information for router and error-checking. 
 
 **7. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?**
 
