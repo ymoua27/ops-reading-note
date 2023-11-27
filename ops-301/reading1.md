@@ -58,7 +58,7 @@ The network layer transmit data from on host to different networks. It takes car
 
 4. Transport Layer
 
-THe transport layer provides services for the application layter and takes from the network layer. Data in this layer is called Segments. It provides acknowledgement of successful data transfer and re-transmits.
+The transport layer provides services for the application layter and takes from the network layer. Data in this layer is called Segments. It provides acknowledgement of successful data transfer and re-transmits.
 
 5. Session Layer
 
