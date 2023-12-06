@@ -18,3 +18,17 @@ The administrator should mention using the local database of the device as a bac
 The client or Network Access Server (NAS) sends authentication requests to the ACS server and the server takes the decision to allow the user to access the network resource or not according to the credentials provided by the user. 
 
 ![Alt text](image-1.png)
+
+[RADIUS](https://archive.is/27Y19)
+
+**1. What are the benefits of using RADIUS for authentication and authorization?**
+
+It allows remote access to servers to communicate with a central server to authenticate dial-in users and authorize their access to the requested system or service
+
+**2. What is RADIUS and what does it stand for?**
+
+Remote Authentication Dial-In User Service 
+
+**3. Research: What encryption algorithms does RADIUS use?**
+
+RADIUS uses MD5 XORING
