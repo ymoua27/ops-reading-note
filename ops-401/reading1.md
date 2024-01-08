@@ -4,7 +4,7 @@
 
 1. **How would you convince your future company to pursue SOC2 compliance?**
 
-    Gaining our customer's trust would mean more buisness since they can be sure their data is protected with us. It improves security, bolsters company culture, provides documentation, and helps with risk management.  
+    Gaining our customer's trust would mean more business since they can be sure their data is protected with us. It improves security, bolsters company culture, provides documentation, and helps with risk management.  
 
 2. **What are the five SOC2 Trust Principles?**
 
