@@ -29,11 +29,8 @@
 
 [13 Compliance Frameworks For Cloud-Based Organizations](https://www.horangi.com/blog/13-compliance-frameworks-for-cloud-based-organizations)
 
+[CSA](https://cloudsecurityalliance.org/)
 
-    [CSA](https://cloudsecurityalliance.org/)
+[CCM](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
 
-
-    [CCM](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
-
-   
-    [CSA](https://cloudsecurityalliance.org/research/guidance/)
+[CSA](https://cloudsecurityalliance.org/research/guidance/)
