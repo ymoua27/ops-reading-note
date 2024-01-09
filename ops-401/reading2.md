@@ -25,13 +25,15 @@
     AWS Lambda is in the function abstraction. It is special because it is event-driven model. You don't a full blown instance to run your code and have AWS figure it out.
 
 
-    ## Bookmarks
-    [13 Compliance Frameworks For Cloud-Based Organizations](https://www.horangi.com/blog/13-compliance-frameworks-for-cloud-based-organizations)
+## Bookmarks
+
+[13 Compliance Frameworks For Cloud-Based Organizations](https://www.horangi.com/blog/13-compliance-frameworks-for-cloud-based-organizations)
 
 
     [CSA](https://cloudsecurityalliance.org/)
 
 
     [CCM](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+
    
     [CSA](https://cloudsecurityalliance.org/research/guidance/)
