@@ -1,3 +1,8 @@
+# Script:                       Automate Password min length
+# Author:                       Yue Moua
+# Date of latest revision:      1/11/2024
+# Purpose:                      Lab 04
+
 # Set the desired minimum password length
 $minimumPasswordLength = 14
 
