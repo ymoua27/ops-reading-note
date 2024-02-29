@@ -5,7 +5,7 @@
 
 **1. What is SQL injection?**
 
-Inserting maliious code to conduct SQL quieries of a database**
+Inserting maliious code to conduct SQL quieries of a database
 
 **2. Can you give an example of how a hacker could use SQL injection to gain unauthorized access?**
 
