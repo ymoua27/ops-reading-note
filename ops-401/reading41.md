@@ -9,7 +9,6 @@
 
 ![alt text](image-1.png)
 
-
 **2. Your manager has asked you to explain the benefits of a pentest to the company’s leadership. How would you lead this conversation?**
 
 Pentesting is crucial for finding vulnerabilities. By simulating attacks on our system, we can reduce risks and identify weak spots. 
