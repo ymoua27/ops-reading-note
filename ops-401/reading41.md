@@ -1,4 +1,4 @@
-[https://www.imperva.com/learn/application-security/penetration-testing/]()
+[What is penetration testing](https://www.imperva.com/learn/application-security/penetration-testing/)
 
 # Questions?
 
