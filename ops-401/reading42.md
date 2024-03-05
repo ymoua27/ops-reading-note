@@ -14,6 +14,6 @@ Pass-the-ticket- Similar to pass-the-hash, Mimikatz provides functionality for a
 
 ![alt text](image-3.png)
 
-Limiting admin privilidges to only users who need them will limit how many accounts Mimikatz can target. 
+Limiting admin privileges' to only users who need them will limit how many accounts Mimikatz can target. 
 
-By disabling password-caching, Mimkatz won't be able to gain acccess to the cache passwords. 
+By disabling password-caching, Mimkatz won't be able to gain access to the cache passwords. 
