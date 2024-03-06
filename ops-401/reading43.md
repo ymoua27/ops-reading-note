@@ -15,4 +15,4 @@ Active sniffing- The attacker is listening and could inject their own data
 
 **3. How does encryption protect traffic against sniffing attacks?**
 
-It protects traffic by encoding the data, so it is unreadable to the atacker unless they have the key 
+It protects traffic by encoding the data, so it is unreadable to the attacker unless they have the key 
